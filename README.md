@@ -39,11 +39,11 @@ Fundada em setembro de 2023 a **WORKLOG** conectando o mundo entregando resultad
   
 > Identidade e Propósito
 
-**Missão** : Realizar consultorias de maneira eficiente e ágil, proporcionando melhorias para nossos clientes, independentemente do quão difícil seja.
+**Missão** : A missão da Worklog é maximizar o desempenho e a satisfação dos nossos clientes quanto a análise da exportação e importação de suas cargas, de uma maneira simples, objetiva e ágil, onde qualquer um possa entender o processo e depositar confiança em nossos serviços.
 
-**Visão** : Crescer e se adaptar conforme as necessidades do mercado, tendo competitividade e visando ser referência na área.
+**Visão** : Inovar continuamente nossas práticas, alinhadas a técnicas sustentáveis para melhorar a eficiência operacional e oferecer soluções logísticas aos nossos clientes.
 
-**Valores**: Honestidade; Responsabilidade; Dedicação; Pontualidade; Qualidade. 
+**Valores**: Inovação, transparência e responsabilidade. Estes são os fundamentos de nossa empresa que criam um eixo forte para nossos clientes. Cremos que com uma união genuína é possível gerar negócios estratégicos e parcerias duradouras. 
   
  > SWOT da Empresa
 
