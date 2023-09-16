@@ -67,6 +67,13 @@ Assim, tem-se por objetivo específico:
   
 <p align="right">(<a href="#top">voltar ao topo</a>)</p>
 
+# Cronograma das Sprints
+
+## Cronograma
+Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
+
+#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
+
 ## Solução
 
 A equipe da FastLog além de desenvolver uma interface gráfica que permita o cliente consultar, filtrar e agrupar as informações tratadas da base de dados do governo (ComexStat), entregará o produto com análises logísticas pertinentes aos dados, auxiliando o cliente a ter desde uma visão do macro ao micro sobre as importações e exportações.
