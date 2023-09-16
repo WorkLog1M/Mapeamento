@@ -1,6 +1,6 @@
-# Mapeamento dos Dados de Importação e Exportação para Análise de Cadeias Produtivas
+# Mapeamento dos Dados de Importação e Exportação
 <p align="center"> 
-API 1° Semestre - Logística Noturno
+API 1° Semestre - Logística Manhã
 </p> 
   
 <p align="center">   
