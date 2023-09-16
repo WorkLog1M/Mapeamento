@@ -24,7 +24,7 @@ O projeto aborda o mapeamento das cadeias produtivas da Região Metropolitana do
       <img src="./imagens_git/logo.png" width="30%" height="30%">
 <p align="center">
   
-A **FASTLOG** tem como missão realizar consultorias de maneira eficiente e ágil, proporcionando melhorias para nossos clientes, inndependentemente do quão difícil seja, entendemos que somos capazes de auxiliar nossos clientes por meio da entrega de produtos eficientes e eficazes para a resolução de seus problemas. 
+Fundada em setembro de 2023 a **WORKLOG** conectando o mundo entregando resultados, vem buscando seu lugar no mercado na importação e exportação, diferente de outras empresas globais, visando uma logística clara e eficiente com equipe qualificada. 
   
 > A Equipe
   
