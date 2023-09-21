@@ -11,7 +11,7 @@ API 1° Semestre - Logística Manhã
 ## O Projeto
 
 O projeto aborda o mapeamento do potencial de movimentação de cargas no aeroporto internacional de São José dos Campos (SJK) através de dados de importações e exportações de municípios. As análise voltadas para os dados de importação e exportação que contribuem as empresas a tomarem decisões mais assertiva sobre a logística de mercado.  
-<p>O O objetivo deste projeto é criar um sistema de otimização da movimentação de cargas no Aeroporto de São José dos Campos (SJK) por meio da análise de dados de importações e exportações de municípios próximos e relevantes. Através dessa análise de dados, pretendemos atingir oportunidades para expandir e melhorar a capacidade de armazenamento de cargas no Aeroporto de SJK, a fim de atender às crescentes demandas.
+<p> O objetivo deste projeto é criar um sistema de otimização da movimentação de cargas no Aeroporto de São José dos Campos (SJK) por meio da análise de dados de importações e exportações de municípios próximos e relevantes. Através dessa análise de dados, pretendemos atingir oportunidades para expandir e melhorar a capacidade de armazenamento de cargas no Aeroporto de SJK, a fim de atender às crescentes demandas.
 
 <p align="right">(<a href="#top">voltar ao topo</a>)</p>
 
@@ -21,7 +21,7 @@ O projeto aborda o mapeamento do potencial de movimentação de cargas no aeropo
 
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/logo.png" width="30%" height="30%">
+      <img src="./imagens_git/logo.png" width="40%" height="40%">
 <p align="center">
   
 Fundada em setembro de 2023 a **WORKLOG** conectando o mundo entregando resultados, vem buscando seu lugar no mercado na importação e exportação, diferente de outras empresas globais, visando uma logística clara e eficiente com equipe qualificada. 
@@ -50,45 +50,27 @@ Fundada em setembro de 2023 a **WORKLOG** conectando o mundo entregando resultad
   
 <p align="right">(<a href="#top">voltar ao topo</a>)</p>
 
-
-## Objetivo
-
-A demanda do cliente consiste em entender e avaliar da melhor forma possível as cadeias produtivas da RMVALE, que por ser uma região com muita importação e exportação, o fluxo de registros de transações é enorme, resultando na dificuldade em se encontrar as informações necessárias.
-
-Assim, tem-se por objetivo específico:
-
-<p>• Desenvolver uma interface gráfica que permita o cliente consultar, filtrar e agrupar as informações tratadas da base de dados do governo (ComexStat)
-<p>• Criar um produto que seja de fácil interatividade, ágil e com análises visuais pertinentes
-<p>• Contar com análises logísticas pertinentes aos dados, auxiliando assim o cliente a ter desde uma visão do macro ao micro sobre as importações e exportações da RMVALE  
   
 <p align="right">(<a href="#top">voltar ao topo</a>)</p>
 
 # Cronograma das Sprints
 
-## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
-
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
-
-## Solução
-
-A equipe da FastLog além de desenvolver uma interface gráfica que permita o cliente consultar, filtrar e agrupar as informações tratadas da base de dados do governo (ComexStat), entregará o produto com análises logísticas pertinentes aos dados, auxiliando o cliente a ter desde uma visão do macro ao micro sobre as importações e exportações.
-
-<p align="right">(<a href="#top">voltar ao topo</a>)</p>
-
-## Organização e Metodologia
-  
-Este projeto foi realizado conforme a metodologia ágil, utilizando o software Jira para a organização e acompanhamento das tarefas de cada membro da equipe; durante cada sprint, uma série de atividades eram designadas, com data de início e data limite, possibilitando a análise do tempo gasto em cada uma delas, e, do desempenho dos integrantes.
 
 > Cronograma
 
-_Sprint 01 - 16/03/23 à 03/04/2023_
+_Sprint 0 - 04/09/23 à 25/09/2023_
 
-_Sprint 02 - 04/04/23 à 24/04/2023_
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/cronograma.png" width="100%" height="30%">
+<p align="center">
 
-_Sprint 03 - 25/04/23 à 29/05/2023_
+_Sprint 01 - 25/09/23 à 16/10/2023_
 
-_Sprint 04 - 30/05/23 à 12/06/2023_
+_Sprint 02 - 16/10/23 à 06/11/2023_
+
+_Sprint 03 - 06/11/23 à 27/11/2023_
+
 
 <div id="top"></div>
 <p align="center">
