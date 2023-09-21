@@ -45,7 +45,7 @@ Fundada em setembro de 2023 a **WORKLOG** conectando o mundo entregando resultad
 
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/swotfastlog.png" width="80%" height="80%">
+      <img src="./imagens_git/SWOT WL.jpeg" width="80%" height="80%">
 <p align="center">  
   
 <p align="right">(<a href="#top">voltar ao topo</a>)</p>
