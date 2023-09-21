@@ -72,17 +72,3 @@ _Sprint 02 - 16/10/23 à 06/11/2023_
 _Sprint 03 - 06/11/23 à 27/11/2023_
 
 
-<div id="top"></div>
-<p align="center">
-      <img src="./imagens_git/cronograma.png" width="100%" height="30%">
-<p align="center">
-
-<details>
-<summary>Sprint 01</summary>
-
->Backlog
-<div id="top"></div>
-<p align="center">
-      <img src="./imagens_git/backlogsprint1.png" width="70%" height="30%">
-<p align="center">
-  
