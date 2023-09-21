@@ -10,8 +10,8 @@ API 1° Semestre - Logística Manhã
 
 ## O Projeto
 
-O projeto aborda o mapeamento das cadeias produtivas da Região Metropolitana do Vale do Paraíba (RMVale) através dos dados de importação e exportação disponíveis no site do comércio exterior do Brasil (ComexStat), as análises voltadas para os dados de importação e exportação desta região auxiliam as empresas a tomarem decisões mais assertivas sobre a logística do mercado.
-<p>O objetivo geral foi o desenvolvimento de uma interface gráfica que permita ao cliente uma consulta das informações tratadas pela base de dados do governo, o produto foi pensado e desenvolvido para ser de fácil interatividade,ágil e com análise visuais pertinentes, auxiliando o cliente a ter desde uma visão do macro ao micro sobre as importações e exportações da RMVALE, nossa proposta utiliza estes dados para facilitar a visualização das regiões exportadoras e importadoras e assim identificar suas cadeias produtivas.
+O projeto aborda o mapeamento do potencial de movimentação de cargas no aeroporto internacional de São José dos Campos (SJK) através de dados de importações e exportações de municípios. As análise voltadas para os dados de importação e exportação que contribuem as empresas a tomarem decisões mais assertiva sobre a logística de mercado.  
+<p>O O objetivo deste projeto é criar um sistema de otimização da movimentação de cargas no Aeroporto de São José dos Campos (SJK) por meio da análise de dados de importações e exportações de municípios próximos e relevantes. Através dessa análise de dados, pretendemos atingir oportunidades para expandir e melhorar a capacidade de armazenamento de cargas no Aeroporto de SJK, a fim de atender às crescentes demandas.
 
 <p align="right">(<a href="#top">voltar ao topo</a>)</p>
 
