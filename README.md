@@ -27,15 +27,8 @@ O projeto aborda o mapeamento das cadeias produtivas da Região Metropolitana do
 Fundada em setembro de 2023 a **WORKLOG** conectando o mundo entregando resultados, vem buscando seu lugar no mercado na importação e exportação, diferente de outras empresas globais, visando uma logística clara e eficiente com equipe qualificada. 
   
 > A Equipe
-  
-| Avatar            							| Aluno         | Função           		
-| -------------------------------------------- | ---------------- | ---------------- 
-| <img src = "./imagens_git/rebeca.jpeg" width="60" >|__Rebeca Fonseca de Abreu__  | *Scrum Master*  
-| <img src = "./imagens_git/jessica.jpeg" width="50" >|__Jessica Tinoco Bernardo__| *Product Owner* 
-| <img src = "./imagens_git/igor.jpeg" width="60" >|__Igor Alexandre C. C.Vital__  | *Developer Team*  
-| <img src = "./imagens_git/luan.jpeg" width="60" >|__Luan Silva Costa__  | *Developer Team* 
-| <img src = "./imagens_git/luiz.jpeg" width="60" >|__Luis Guilherme B. de Almeida__ | *Developer Team* 
-| <img src = "./imagens_git/vinicius.jpeg" width="50" >|__Vinicius Tomé__| *Developer Team*
+
+| <img src = "./imagens_git/Equipe WL.png" width="60" >
   
 > Identidade e Propósito
 
