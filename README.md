@@ -65,7 +65,7 @@ _Sprint 0 - 04/09/23 à 25/09/2023_
 
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/sprint 0.png" width="100%" height="30%">
+      <img src="./imagens_git/sprint 0.png" width="90%" height="30%">
 <p align="center">
 
 _Relatorio de Burnup_
