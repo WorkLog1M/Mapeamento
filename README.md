@@ -9,6 +9,9 @@ API 1° Semestre - Logística Manhã
 <div id="top"></div>
 <p align="center">
       <img src="http://fatecsjc-prd.azurewebsites.net/static/media/logo.b8e0d5a7.png" width="40%" height="40%">
+<img align="center" height="180" width="160" src="http://fatecsjc-prd.azurewebsites.net/static/media/cps.51739082.png">
+<img align="center" height="200" width="190" src="https://cdn.discordapp.com/attachments/1024726813685067976/1159520631419850772/governo-do-estado-de-sao-paulo-logo.png">
+ 
 <p align="center">
 
 
