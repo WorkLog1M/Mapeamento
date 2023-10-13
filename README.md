@@ -1,10 +1,8 @@
 # Mapeamento dos Dados de Importação e Exportação
 <p align="center"> 
 API 1° Semestre - Logística Manhã
-</p> 
-  
+</p>  
 <p align="center">   
-
  <a href="http://fatecsjc-prd.azurewebsites.net/"><img src="https://img.shields.io/badge/Instituição%3A-FATEC-red"/></a>
 </p>
 
