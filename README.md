@@ -21,7 +21,7 @@ API 1° Semestre - Logística Manhã
 * [Objetivo do Projeto](#Objetivo)
 * [A Empresa](#A-Empresa)
 * [Equipe](#A-Empresa)
-* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Swot da empresa](#-SWOT-da-Empresa)
 * [uncionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Backlog do produto](#Backlog-do-produto)
@@ -66,8 +66,9 @@ Fundada em setembro de 2023 a **WORKLOG** conectando o mundo entregando resultad
 **Visão** : Inovar continuamente nossas práticas, alinhadas a técnicas sustentáveis para melhorar a eficiência operacional e oferecer soluções logísticas aos nossos clientes.
 
 **Valores**: Inovação, transparência e responsabilidade. Estes são os fundamentos de nossa empresa que criam um eixo forte para nossos clientes. Cremos que com uma união genuína é possível gerar negócios estratégicos e parcerias duradouras. 
-  
- > SWOT da Empresa
+
+
+  ## SWOT da Empresa
 
 <div id="top"></div>
 <p align="center">
