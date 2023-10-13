@@ -21,7 +21,7 @@ API 1° Semestre - Logística Manhã
 * [Objetivo do Projeto](#Objetivo)
 * [A Empresa](#A-Empresa)
 * [Equipe](#A-Empresa)
-* [Swot da empresa](#-SWOT-da-Empresa)
+* [Swot da empresa](#SWOT-da-Empresa)
 * [uncionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Backlog do produto](#Backlog-do-produto)
