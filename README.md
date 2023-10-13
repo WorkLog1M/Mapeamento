@@ -8,7 +8,7 @@ API 1° Semestre - Logística Manhã
 
 <div id="top"></div>
 <p align="center">
-      <img src="http://fatecsjc-prd.azurewebsites.net/static/media/logo.b8e0d5a7.png" width="40%" height="40%">
+      <img src="http://fatecsjc-prd.azurewebsites.net/static/media/logo.b8e0d5a7.png" width="30%" height="30%">
 <img align="center" height="180" width="160" src="http://fatecsjc-prd.azurewebsites.net/static/media/cps.51739082.png">
 <img align="center" height="200" width="190" src="https://cdn.discordapp.com/attachments/1024726813685067976/1159520631419850772/governo-do-estado-de-sao-paulo-logo.png">
  
@@ -110,8 +110,4 @@ _Sprint 02 - 16/10/23 à 06/11/2023_
 _Sprint 03 - 06/11/23 à 27/11/2023_
 
 
-  <div>
-<img align="center" height="100" width="180" src="http://fatecsjc-prd.azurewebsites.net/static/media/logo.b8e0d5a7.png">
-<img align="center" height="180" width="160" src="http://fatecsjc-prd.azurewebsites.net/static/media/cps.51739082.png">
-<img align="center" height="200" width="190" src="https://cdn.discordapp.com/attachments/1024726813685067976/1159520631419850772/governo-do-estado-de-sao-paulo-logo.png">
-  </div>
+
