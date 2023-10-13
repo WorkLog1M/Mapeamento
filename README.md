@@ -8,6 +8,22 @@ API 1° Semestre - Logística Manhã
  <a href="http://fatecsjc-prd.azurewebsites.net/"><img src="https://img.shields.io/badge/Instituição%3A-FATEC-red"/></a>
 </p>
 
+
+# Índice
+
+* [Projeto](#projeto-template)
+* [Micro Certificações](#badges)
+* [Equipe](#equipe)
+* [Objetivo do Projeto](#objetivo-do-projeto)
+* [uncionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
+* [Cronograma das Sprints](#Cronograma-das-Sprints)
+* [Backlog do produto](#Backlog-do-produto)
+* [Burndown](#Burndown)
+* [Competências desenvolvidas](#competências-desenvolvidas)
+* [Autores](#autores)
+
+
+
 ## O Projeto
 
 O projeto aborda o mapeamento do potencial de movimentação de cargas no Aeroporto de São José dos Campos (SJK) através de dados de importações e exportações de municípios. As análise voltadas para os dados de importação e exportação que contribuem as empresas a tomarem decisões mais assertiva sobre a logística de mercado. 
