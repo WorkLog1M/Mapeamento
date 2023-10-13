@@ -4,9 +4,14 @@ API 1° Semestre - Logística Manhã
 </p> 
   
 <p align="center">   
- <img src="https://img.shields.io/badge/Status%3A-DONE-green"/>
+
  <a href="http://fatecsjc-prd.azurewebsites.net/"><img src="https://img.shields.io/badge/Instituição%3A-FATEC-red"/></a>
 </p>
+
+<div id="top"></div>
+<p align="center">
+      <img src="http://fatecsjc-prd.azurewebsites.net/static/media/logo.b8e0d5a7.png" width="40%" height="40%">
+<p align="center">
 
 
 # Índice
