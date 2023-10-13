@@ -18,7 +18,8 @@ API 1° Semestre - Logística Manhã
 # Índice
 
 * [Projeto](#projeto-template)
-* [Micro Certificações](#badges)
+* [Objetivo do Projeto](#objetivo-do-projeto)
+* [A Empresa](#equipe)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [uncionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
