@@ -17,10 +17,10 @@ API 1° Semestre - Logística Manhã
 
 # Índice
 
-* [Projeto](##O-Projeto)
-* [Objetivo do Projeto](##Objetivo)
-* [A Empresa](##A-Empresa)
-* [Equipe](>A-Equipe)
+* [Projeto](#O-Projeto)
+* [Objetivo do Projeto](#Objetivo)
+* [A Empresa](#A-Empresa)
+* [Equipe](#A-Equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [uncionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
