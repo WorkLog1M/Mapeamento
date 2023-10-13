@@ -33,7 +33,7 @@ Fundada em setembro de 2023 a **WORKLOG** conectando o mundo entregando resultad
 
 <div id="top"></div>
 <p align="center">
-| <img src = "./imagens_git/Equipe WL.png" width="70%" height="70%">
+| <img src = "./Green Clean Corporate Organizational Chart.png" width="70%" height="70%">
 <p align="center">
   
 > Identidade e Propósito
