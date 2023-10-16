@@ -99,8 +99,7 @@ _Relatorio de Burnup_
       <img src="./imagens_git/Relatorio de burnup.png" width="100%" height="35%">
 <p align="center">
 
-
-_Sprint 01 - 25/09/23 à 16/10/2023_
+## Sprint 1. - 25/09/23 à 16/10/2023_
 
 <div id="top"></div>
 <p align="center">
