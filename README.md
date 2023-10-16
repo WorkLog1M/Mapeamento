@@ -22,12 +22,11 @@ API 1° Semestre - Logística Manhã
 * [A Empresa](#A-Empresa)
 * [Equipe](#A-Empresa)
 * [Swot da empresa](#SWOT-da-Empresa)
-* [uncionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
-* [Backlog do produto](#Backlog-do-produto)
-* [Burndown](#Burndown)
+* [Sprint 0](#Sprint-0.---04/09/23-à-25/09/2023)
+* [Sprint 1](#Burndown)
 * [Dashboard](#Dashboard-Sprint-1-Importação-e-Exportação)
-* [Autores](#autores)
+* [Sprint 2](#autores)
 
 
 
@@ -84,7 +83,7 @@ Fundada em setembro de 2023 a **WORKLOG** conectando o mundo entregando resultad
 
 > Cronograma
 
-_Sprint 0 - 04/09/23 à 25/09/2023_
+## Sprint 0. - 04/09/23 à 25/09/2023_
 
 <div id="top"></div>
 <p align="center">
