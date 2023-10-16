@@ -124,6 +124,8 @@ https://www.youtube.com/watch?v=DS9Js98B81M
 
 [![Nome do Vídeo](https://youtu.be/3kSmfkrS0v0)
 
+[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
+
 product_video: 'https://github.com/WorkLog1M/Mapeamento/assets/145165556/e7b6d015-4873-41e7-a40e-e1af13b6a11d'
 
 
