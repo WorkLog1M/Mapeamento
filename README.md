@@ -95,14 +95,14 @@ _Relatorio de Burnup_
 
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/Relatorio de burnup.png" width="100%" height="35%">
+      <img src="./imagens_git/Relatorio de burnup.png" width="90%" height="35%">
 <p align="center">
 
 ## Sprint 1. - 25/09/23 à 16/10/2023_
 
 <div id="top"></div>
 <p align="center">
-      <img src="./sprint 1.png" width="100%" height="35%">
+      <img src="./sprint 1.png" width="90%" height="35%">
 <p align="center
 
 
@@ -119,7 +119,7 @@ _Relatorio de Burnup_
 
 <div id="top"></div>
 <p align="center">
-      <img src="./sprint 2.png" width="100%" height="35%">
+      <img src="./sprint 2.png" width="90%" height="35%">
 <p align="center
 
 
