@@ -104,7 +104,7 @@ _Sprint 01 - 25/09/23 à 16/10/2023_
 
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/SPRINT 1.png" width="100%" height="35%">
+      <img src="./sprint 1.png" width="100%" height="35%">
 <p align="center
   
 _Sprint 02 - 16/10/23 à 06/11/2023_
