@@ -117,6 +117,10 @@ _Relatorio de Burnup_
 
 
 
+https://github.com/WorkLog1M/Mapeamento/assets/145165556/e7b6d015-4873-41e7-a40e-e1af13b6a11d
+
+
+
 ## Sprint 2. - 16/10/23 à 06/11/2023_
 
 
