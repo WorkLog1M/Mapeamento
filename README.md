@@ -26,7 +26,7 @@ API 1° Semestre - Logística Manhã
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Backlog do produto](#Backlog-do-produto)
 * [Burndown](#Burndown)
-* [Competências desenvolvidas](#competências-desenvolvidas)
+* [Dashboard](#Dashboard-Sprint-1-Importação-e-Exportação)
 * [Autores](#autores)
 
 
@@ -81,7 +81,6 @@ Fundada em setembro de 2023 a **WORKLOG** conectando o mundo entregando resultad
 <p align="right">(<a href="#top">voltar ao topo</a>)</p>
 
 # Cronograma das Sprints
-
 
 > Cronograma
 
