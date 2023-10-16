@@ -109,27 +109,10 @@ _Relatorio de Burnup_
 ## Dashboard Sprint 1 Importação e Exportação
 
 
-<div id="top"></div>
-<p align="center">
-[![Nome do Vídeo](https://github.com/WorkLog1M/Mapeamento/assets/145165556/e7b6d015-4873-41e7-a40e-e1af13b6a11d)
-<p align="center
-
-[![MVP](https://github.com/WorkLog1M/Mapeamento/assets/145165556/e7b6d015-4873-41e7-a40e-e1af13b6a11d)
-
-![video](https://github.com/WorkLog1M/Mapeamento/assets/145165556/e7b6d015-4873-41e7-a40e-e1af13b6a11d)
-
-[![Nome do Vídeo]([https://youtu.be/DS9Js98B81M](https://www.youtube.com/watch?v=DS9Js98B81M)
-[![Nome do Vídeo][(https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg](https://www.youtube.com/watch?v=DS9Js98B81M))]
-https://www.youtube.com/watch?v=DS9Js98B81M
-
-[![Nome do Vídeo](https://youtu.be/3kSmfkrS0v0)
-
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
-
-product_video: 'https://github.com/WorkLog1M/Mapeamento/assets/145165556/e7b6d015-4873-41e7-a40e-e1af13b6a11d'
- https://youtu.be/DS9Js98B81M?feature=shared
-
  [![Alt text](https://img.youtube.com/vi/DS9Js98B81M/0.jpg)](https://www.youtube.com/watch?v=DS9Js98B81M)
+
+
+ [![Alt text](https://img.youtube.com/vi/3kSmfkrS0v0/0.jpg)](https://www.youtube.com/watch?v=3kSmfkrS0v0)
 
 ## Sprint 2. - 16/10/23 à 06/11/2023_
 
