@@ -109,7 +109,10 @@ _Relatorio de Burnup_
 
 ## Dashboard Sprint 1 Importação e Exportação
 
-[![Nome do Vídeo](Das.mp4)
+<div id="top"></div>
+<p align="center">
+      <img src="./Das.mp4" width="100%" height="35%">
+<p align="center
 
 
 ## Sprint 2. - 16/10/23 à 06/11/2023_
