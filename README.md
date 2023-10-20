@@ -115,6 +115,9 @@ _Relatorio de Burnup_
 
  [![Alt text](https://img.youtube.com/vi/3kSmfkrS0v0/0.jpg)](https://www.youtube.com/watch?v=3kSmfkrS0v0)
 
+
+
+
 ## Sprint 2. - 16/10/23 à 06/11/2023_
 
 
