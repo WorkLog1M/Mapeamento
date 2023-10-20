@@ -103,14 +103,12 @@ _Relatorio de Burnup_
 <p align="center">
       <img src="./sprint 1.png" width="90%" height="35%">
 <p align="center>
-               <div>
 
 
 
+## Dashboard Sprint 1 Importação e Exportação
 
- - Dashboard Sprint 1 Importação e Exportação
-
-
+ 
  
  [![Alt text](https://img.youtube.com/vi/DS9Js98B81M/0.jpg)](https://www.youtube.com/watch?v=DS9Js98B81M)
 
@@ -127,7 +125,7 @@ _Relatorio de Burnup_
 <div id="top"></div>
 <p align="center">
       <img src="./sprint 2.png" width="90%" height="35%">
-<p align="center
+<p align="center>
 
 
 ## Sprint 3. - 06/11/23 à 27/11/2023_
