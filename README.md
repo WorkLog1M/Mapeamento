@@ -14,7 +14,6 @@ API 1° Semestre - Logística Manhã
  
 <p align="center">
 
-
 # Índice
 
 * [Projeto](#O-Projeto)
@@ -28,12 +27,9 @@ API 1° Semestre - Logística Manhã
 * [Dashboard](#Dashboard-Sprint-1-Importação-e-Exportação)
 * [Sprint 2](#autores)
 
-
-
 ## O Projeto
 
 O projeto aborda o mapeamento do potencial de movimentação de cargas no Aeroporto de São José dos Campos (SJK) através de dados de importações e exportações de municípios. As análise voltadas para os dados de importação e exportação que contribuem as empresas a tomarem decisões mais assertiva sobre a logística de mercado. 
-
 
 ## Objetivo
 O objetivo deste projeto é criar um sistema de otimização da movimentação de cargas no Aeroporto de São José dos Campos (SJK) por meio da análise de dados de importações e exportações de municípios próximos e relevantes. Através dessa análise de dados, pretendemos atingir oportunidades para expandir e melhorar a capacidade de armazenamento de cargas no Aeroporto de SJK, a fim de atender às crescentes demandas.
@@ -65,7 +61,6 @@ Fundada em setembro de 2023 a **WORKLOG** conectando o mundo entregando resultad
 **Visão** : Inovar continuamente nossas práticas, alinhadas a técnicas sustentáveis para melhorar a eficiência operacional e oferecer soluções logísticas aos nossos clientes.
 
 **Valores**: Inovação, transparência e responsabilidade. Estes são os fundamentos de nossa empresa que criam um eixo forte para nossos clientes. Cremos que com uma união genuína é possível gerar negócios estratégicos e parcerias duradouras. 
-
 
   ## SWOT da Empresa
 
@@ -105,20 +100,12 @@ _Relatorio de Burnup_
 <p align="center>
 
 
-
-## Dashboard Sprint 1 Importação e Exportação
- 
-
-
-
- 
+## Dashboard Sprint 1 Importação e Exportação 
 
  [![Alt text](https://img.youtube.com/vi/3kSmfkrS0v0/0.jpg)](https://www.youtube.com/watch?v=3kSmfkrS0v0)
 
 
  [![Alt text](https://img.youtube.com/vi/DS9Js98B81M/0.jpg)](https://www.youtube.com/watch?v=DS9Js98B81M)
-
-
 
 
 ## Sprint 2. - 16/10/23 à 06/11/2023_
