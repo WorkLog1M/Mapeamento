@@ -106,13 +106,7 @@ _Relatorio de Burnup_
 
 
 
-
-
-
-
-
 ## Dashboard Sprint 1 Importação e Exportação
-
  
  [![Alt text](https://img.youtube.com/vi/3kSmfkrS0v0/0.jpg)](https://www.youtube.com/watch?v=3kSmfkrS0v0)
 
