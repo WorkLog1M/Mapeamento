@@ -116,3 +116,14 @@ _Relatorio de Burnup_
 <p align="center>
 
 ## Dashboard Sprint 2 Importação e Exportação_
+
+[![Alt text](https://img.youtube.com/vi/jXZ04rWxGl8/0.jpg)](https://www.youtube.com/watch?v=jXZ04rWxGl8)
+
+[![Alt text](https://img.youtube.com/vi/AKBR-chyMoQ/0.jpg)](https://www.youtube.com/watch?v=AKBR-chyMoQ)
+
+## Sprint 3. - 06/11/23 à 27/11/2023_
+
+<div id="top"></div>
+<p align="center">
+      <img src="./SPRINT 3 .png" width="90%" height="35%">
+<p align="center>
