@@ -26,6 +26,9 @@ API 1° Semestre - Logística Manhã
 * [Sprint 1](#Burndown)
 * [Dashboard](#Dashboard-Sprint-1-Importação-e-Exportação)
 * [Sprint 2](#autores)
+* [Dashboard](#Dashboard-Sprint-2-Importação-e-Exportação_)
+* [Sprint 2](#autores)
+* [Dashboard](#Dashboard-Sprint-1-Importação-e-Exportação)
 
 ## O Projeto
 
