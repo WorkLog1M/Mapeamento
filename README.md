@@ -115,6 +115,13 @@ _Relatorio de Burnup_
       <img src="./sprint 2 actualizado.png" width="90%" height="35%">
 <p align="center>
 
+_Relatorio de Burnup_
+
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/RELATORIO SPRINT2.png" width="90%" height="35%">
+<p align="center">
+ 
 ## Dashboard Sprint 2 Importação e Exportação_
 
 [![Alt text](https://img.youtube.com/vi/jXZ04rWxGl8/0.jpg)](https://www.youtube.com/watch?v=jXZ04rWxGl8)
