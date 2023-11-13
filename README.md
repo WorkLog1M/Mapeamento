@@ -106,3 +106,10 @@ _Relatorio de Burnup_
 [![Alt text](https://img.youtube.com/vi/DS9Js98B81M/0.jpg)](https://www.youtube.com/watch?v=DS9Js98B81M)
 
 ## Sprint 2. - 16/10/23 à 12/11/2023_
+
+<div id="top"></div>
+<p align="center">
+      <img src="./sprint 2 actualizado.png" width="90%" height="35%">
+<p align="center>
+
+## Dashboard Sprint 2 Importação e Exportação_
