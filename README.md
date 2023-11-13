@@ -99,26 +99,10 @@ _Relatorio de Burnup_
       <img src="./sprint 1.png" width="90%" height="35%">
 <p align="center>
 
+## Dashboard Sprint 1 Importação e Exportação_
 
-## Dashboard Sprint 1 Importação e Exportação_ 
+[![Alt text](https://img.youtube.com/vi/3kSmfkrS0v0/0.jpg)](https://www.youtube.com/watch?v=3kSmfkrS0v0)
 
+[![Alt text](https://img.youtube.com/vi/DS9Js98B81M/0.jpg)](https://www.youtube.com/watch?v=DS9Js98B81M)
 
- [![Alt text](https://img.youtube.com/vi/3kSmfkrS0v0/0.jpg)](https://www.youtube.com/watch?v=3kSmfkrS0v0)
-
-
- [![Alt text](https://img.youtube.com/vi/DS9Js98B81M/0.jpg)](https://www.youtube.com/watch?v=DS9Js98B81M)
-
-
-## Sprint 2. - 16/10/23 à 06/11/2023_
-
-
-<div id="top"></div>
-<p align="center">
-      <img src="./sprint 2.png" width="90%" height="35%">
-<p align="center>
-
-
-## Sprint 3. - 06/11/23 à 27/11/2023_
-
-
-
+## Sprint 2. - 16/10/23 à 12/11/2023_
