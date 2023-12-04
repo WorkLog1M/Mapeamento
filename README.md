@@ -138,3 +138,12 @@ _Relatorio de Burnup_
 ## Dashboard Sprint 3 Importação e Exportação_
 
 [![Alt text](https://img.youtube.com/vi/mWf6Uut3BSs/0.jpg)](https://www.youtube.com/watch?v=mWf6Uut3BSs)
+
+
+
+_Relatorio de Burnup_
+
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/Relatorio de burnup.png" width="90%" height="35%">
+<p align="center">
