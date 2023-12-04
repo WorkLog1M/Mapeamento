@@ -145,5 +145,5 @@ _Relatorio de Burnup_
 
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/relatorio sprint 3.png" width="90%" height="35%">
+      <img src="./relatorio sprint 3.png" width="90%" height="35%">
 <p align="center">
